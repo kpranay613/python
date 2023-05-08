@@ -74,5 +74,5 @@ def convert():
 if __name__ == '__main__':
     app.run(host='10.5.0.5', port=80)
 
-#if __name__ == '__main__':
-#   app.run(host='example.com', port=80)
+if __name__ == '__main__':
+   app.run(host='example.com', port=80)
