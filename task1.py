@@ -75,4 +75,4 @@ if __name__ == '__main__':
     app.run(host='10.0.0.4', port=80)
 
 if __name__ == '__main__':
-   app.run(debug=True)
+   app.run(debuger=True)
