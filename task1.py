@@ -72,7 +72,7 @@ def convert():
     return result
 
 if __name__ == '__main__':
-    app.run(debuger=True,host='10.0.0.4', port=80)
+    app.run(host='10.0.0.4', port=8080)
 
 # if __name__ == '__main__':
 #    app.run(debuger=True)
